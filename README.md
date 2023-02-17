@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzach330&show_icons=true&locale=en&layout=compact" alt="hamzach330" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzach330&show_icons=true&locale=en" alt="hamzach330" style="margin-top: 20px; /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzach330&show_icons=true&locale=en" alt="hamzach330" style="margin-top: 20px" /></p>
 
 
 
